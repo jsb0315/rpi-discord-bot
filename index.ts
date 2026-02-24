@@ -32,7 +32,7 @@ import path from 'path';
 import { spawn, execSync, ChildProcessWithoutNullStreams } from 'child_process';
 import os from 'os';
 
-dotenv.config({ path: '/home/jsb/Discord/.env' });
+dotenv.config();
 
 // ─── 유틸 ────────────────────────────────────────────────────────────
 const now = () =>
