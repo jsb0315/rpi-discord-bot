@@ -1,6 +1,6 @@
 # Raspberry Pi Discord Bot (Server Manager)
 
-개인 프로젝트가 올라간 라즈베리파이 서버를 디스코드에서 관리하기 위한 봇 명령어 정리입니다.
+<img width="2000" height="1071" alt="image" src="https://github.com/user-attachments/assets/41cbcd5b-0944-4409-ba93-026c83d82a13" />
 
 ## 주요 명령어
 
